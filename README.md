@@ -1,2 +1,2 @@
 # openlayers-learn
-gis需要
+http://linwei.xyz/ol3-primer/index.html#
